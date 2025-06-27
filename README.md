@@ -6,3 +6,5 @@ How to use:
 3. dont leave empty fields for any of the choices, if in doubt just change the link id numbers and keep the rest as is
 4. ???
 5. profit with spicy images your friends make you look at xD
+
+NOTE: keep config.txt in the same folder as the .exe file - the .exe downloads the image temporarily so its adivsed to keep all this inside its own folder, also feel free to set the .exe to run at startup if you always want to use this as your wallpaper
