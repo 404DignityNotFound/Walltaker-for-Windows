@@ -1,0 +1,7 @@
+link_id = 46463
+resize = contain
+poll_time = 10
+
+#resize = none, fill or contain <-- pick just one not all 3 at once
+# poll_time = time in seconds to poll walltaker
+# link_id = your own link ID from walltaker 
